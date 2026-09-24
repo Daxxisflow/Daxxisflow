@@ -1,4 +1,4 @@
-## Hi there 👋
+Small, dependency-free Windows tools from a one-person operations shop. Each one solves a problem I hit running a local-first AI workstation. MIT licensed. No telemetry, no accounts, nothing phones home.
 
 <!--
 **Daxxisflow/Daxxisflow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
